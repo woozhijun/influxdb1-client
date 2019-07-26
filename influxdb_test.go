@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/influxdb1-client"
+	"github.com/woozhijun/influxdb1-client"
 )
 
 func BenchmarkWrite(b *testing.B) {
